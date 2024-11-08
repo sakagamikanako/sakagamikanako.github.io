@@ -3,6 +3,7 @@ changeBg:20240713050333_1.jpg -next;
 intro:（……） -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
 changeFigure:CGM_KG31.png -next;
 miniAvatar:none;
+【篝】:「ver1.0 未修订过」 -fontSize=default;
 【篝】:「书接上回。」 -fontSize=default;
 【篝】:「如果没有看上回的话一定要看上回喔，这两回剧情是连续的。」 -fontSize=default;
 changeFigure: -next;
