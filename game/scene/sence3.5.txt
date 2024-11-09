@@ -3,13 +3,14 @@ changeBg:20240713050333_1.jpg -next;
 intro:（……） -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
 changeFigure:CGM_KG31.png -next;
 miniAvatar:none;
-【篝】:「全年龄向（R-17）。」 -fontSize=default;
+【篝】:「ver1.1 最后修订日期：2024.11.9」 -fontSize=default;
+【篝】:「全年龄向。」 -fontSize=default;
 【篝】:「为什么小数点反而成全年龄向了。按理说整数编号才是正篇吧。」 -fontSize=default;
 【篝】:「其实自己也很想吐槽。」 -fontSize=default;
 【篝】:「此外关于一些制作感言发一下牢骚。」 -fontSize=default;
 【篝】:「其实解包是有语音，理论上是可以合成朱音和瑚太朗语音的……」 -fontSize=default;
 【篝】:「不过……」 -fontSize=default;
-【篝】:「爱，还不够。」 -fontSize=default;
+【篝】:「我的爱，还不够。」 -fontSize=default;
 【篝】:「但瑚太朗头像是真的一张差分表情都找不出来。」 -fontSize=default;
 【篝】:「我寻思找个半身绘凑合一下也行。」 -fontSize=default;
 【篝】:「结果瑚太朗所有的半身绘都是在挨打。」 -fontSize=default;
@@ -23,7 +24,7 @@ miniAvatar:kotarou_1.png;
 miniAvatar:CGM_AK12au.png;
 【茜】:「不——要——」
 miniAvatar:none;
- :朱音刚起床，蹲坐在椅子上，摆弄着桌子上的电子元件。
+ :明明是下午，朱音却刚起床。蹲坐在椅子上，摆弄着桌子上的电子元件。
 miniAvatar:kotarou_1.png;
 【瑚太朗】:「这些电子制品有什么好玩的嘛~出去走走对身体好喔。」
 miniAvatar:CGM_AK15au.png;
@@ -47,19 +48,19 @@ miniAvatar:CGM_AK23au.png;
 miniAvatar:kotarou_1.png;
 【瑚太朗】:「可恶，说服判定过不去，只能使用武力了！」
 miniAvatar:none;
- :决定把朱音强行拖出去，于是直接上下其手（这个成语不能这么用）。直接把朱音从椅子上抱起来。
+ :决定把朱音强行拖出去，我于是直接上下其手（这个成语不能这么用）。直接把朱音从椅子上抱起来，准备扔到床上。
 playEffect:Blow1.m4a;
 miniAvatar:CGM_AK27au.png;
 【茜】:「欸欸欸！」
 playEffect:Blow1.m4a;
 miniAvatar:none;
- :朱音见情况不妙，开始在我的怀里闹腾。我牢牢地抱着，防止她掉下来。
+ :朱音见情况不妙，先搂住了我的脖子，开始在我的怀里闹腾。我牢牢地抱着，防止她掉下来。
 miniAvatar:CGM_AK27au.png;
 【茜】:「好啦好啦我会出去的快放我下来！你这家伙！」
 playEffect:Blow1.m4a;
 【茜】:「至少让我把衣服穿好喂！」
 miniAvatar:none;
- :于是朱音拗不过我，还是收拾好准备出门了。
+ :朱音还是拗不过我，一脸无奈地从衣柜里找衣服，准备出门。
  :……
  :…………
 changeBg:BG080A.png -next;
@@ -72,28 +73,35 @@ miniAvatar:kotarou_1.png;
 miniAvatar:CGM_AK15au.png;
 【茜】:「自己去翻设定集。」
 miniAvatar:CGM_AK15au.png;
-【茜】:「你有那方面的癖好？」
+【茜】:「说起来，你有这方面的癖好？」
 miniAvatar:kotarou_1.png;
 【瑚太朗】:「这个倒是真没有……」
 miniAvatar:none;
- :虽然这种问题无论肯定还是否定都感觉像有，但这个真没有。看我文本描述的重点就知道了。
+ :虽然这种问题无论肯定还是否定都感觉像有，但这个真没有。
 miniAvatar:CGM_AK23au.png;
 【茜】:「累了。」
+miniAvatar:none;
+ :在我打开屋门的一瞬间，从后面传来了筋疲力尽的声音。
 miniAvatar:kotarou_1.png;
 【瑚太朗】:「还没出门好吗！」
-【瑚太朗】:「什么时候把“全队体力最差”这个人设丢掉啊，拜托不要用这个设定写段子了」
+【瑚太朗】:「什么时候把“全队体力最差”这个人设丢掉啊，拜托别再用这个设定写段子了」
 miniAvatar:CGM_AK15au.png;
-【茜】:「好啦好啦，别发牢骚了，走吧走吧。」
+【茜】:「唉。走吧走吧。」
+miniAvatar:none;
+ :穿好靴子的朱音用脚尖蹬了蹬下地面，地面发出沉闷的响声。
+ :朱音又伸手转了转头上的太阳帽，瞅着帽檐，突然开口问我。
 miniAvatar:CGM_AK11au.png;
-【茜】:「今天是什么特别的纪念日吗，怎么突然要出门。」
+【茜】:「今天是什么特别的纪念日还是活动吗，怎么突然要出门。」
 miniAvatar:kotarou_1.png;
 【瑚太朗】:「其实也没什么特别的喔，只是心血来潮。」
 miniAvatar:CGM_AK15au.png;
 【茜】:「回去了。」
+miniAvatar:none;
+ :朱音扭头转身，摆出一个手势，装出要回去的样子。
 miniAvatar:kotarou_1.png;
 【瑚太朗】:「哎哎哎————别别别~」
 miniAvatar:none;
- :赶紧拉住了扭头就走的朱音。
+ :右手拉住了扭头就走朱音做手势的那只手，左手顺势搂住了她的腰。
 miniAvatar:kotarou_1.png;
 【瑚太朗】:「难得穿好衣服了，一起出去走走吧。」
 miniAvatar:CGM_AK23au.png;
@@ -103,7 +111,7 @@ miniAvatar:none;
 miniAvatar:kotarou_1.png;
 【瑚太朗】:「爬山。」
 miniAvatar:CGM_AK15au.png;
-【茜】:「好，那就只能在这里把你干掉再回去。」
+【茜】:「计划有变，在这里把你干掉再回去。」
 miniAvatar:kotarou_1.png;
 【瑚太朗】:「只是小土坡而已啦！！！十分钟就能搞定！」
 miniAvatar:none;
@@ -121,60 +129,245 @@ miniAvatar:CGM_AK23au.png;
  :…………
 【茜】:「没有找到可疑的东西，很可疑啊。」
 miniAvatar:kotarou_1.png;
-【瑚太朗】:「很严重的逻辑谬误吧……」
+【瑚太朗】:「不要那么不信任我啦……」
 miniAvatar:CGM_AK13au.png;
 【茜】:「好啦，就陪你逛逛咯。」
+miniAvatar:none;
+ :朱音耸了耸肩，摸了摸自己的脸。
 miniAvatar:kotarou_1.png;
-【瑚太朗】:「于是爬海拔三十米的小山丘开始了。」
+【瑚太朗】:「于是爬海拔一百米的小山丘开始了。」
 miniAvatar:CGM_AK13au.png;
-【茜】:「感觉三十米也有十层楼高了呢。」
+【茜】:「一百米也有二十多层楼高了呢。」
 miniAvatar:none;
  :……
  :…………
+changeBg:1680000_2738.jpg -next;
+miniAvatar:none;
+ :曲曲折折的登山道上——嘛，其实只是亲民的小坡而已。
+ :鞋底略显单薄，能感受到偶尔踩在裸露的不规则石头上。有点后悔没有买更好的运动鞋。
+ :人迹罕至的道路上，走路时扬起的沙土经常渗入运动鞋，搞得我更加不适。
+ :周围则是参天的大树，从不疏不密的林中透过了黄昏的阳光。
 miniAvatar:kotarou_1.png;
 【瑚太朗】:「说起来有那种情侣之间拉近关系的话题集呢」
 【瑚太朗】:「其实主要是找一个话题方便打开话匣子」
-【瑚太朗】:「很多漫画之类的也会用这种QA（提问回答）的形式快速增加设定塑造形象喔」
+【瑚太朗】:「很多漫画之类的也会用这种QA（提问回答）的形式快速增加设定、塑造形象喔。」
 miniAvatar:CGM_AK15au.png;
 【茜】:「哈……哈……」
 miniAvatar:kotarou_1.png;
-【瑚太朗】:「怎么样，要不要试试呢」
+【瑚太朗】:「怎么样，我们要不要试试呢？」
 miniAvatar:CGM_AK15au.png;
 【茜】:「哈……爬……」
 miniAvatar:kotarou_1.png;
-【瑚太朗】:「嗯？先从什么开始？」
+【瑚太朗】:「嗯？先从什么开始好呢？」
 miniAvatar:CGM_AK16au.png;
 【茜】:「爬不动啦！你这个——————开挂混蛋！」
 playEffect:Blow1.m4a;
 miniAvatar:none;
- :突然从后面砸过来个水壶。回过头来看见朱音气喘吁吁，一脸怒气冲冲地瞪着我。
+ :半满的水瓶从后面温柔地敲在我的头上，响起了塑料瓶受到冲击压缩时嘎吱嘎吱的声音。
+ :回过头来看见朱音气喘吁吁，一脸怒气冲冲地瞪着我。
 miniAvatar:CGM_AK16au.png;
 【茜】:「刚才就应该把你在家里干掉。」
+miniAvatar:none;
+ :朱音蹲在地上休息，没好气地说着。
 miniAvatar:kotarou_1.png;
-【瑚太朗】:「嘛，那我抱着你上去吧。」
+【瑚太朗】:「好啦好啦，不远了，那我抱着你上去吧。」
 miniAvatar:none;
  :我张开双臂。
 miniAvatar:CGM_AK15au.png;
 【茜】:「公主抱？」
 miniAvatar:none;
- :点了点头。
+ :我点了点头。
 miniAvatar:CGM_AK23au.png;
-【茜】:「笨蛋吗，公主抱这种姿势撑不了多久的，手臂不酸吗。背我。」
+【茜】:「笨蛋吗，公主抱这种姿势撑不了多久的，手臂不酸吗？背我就好。」
 miniAvatar:none;
- :朱音绕到我身后，双手搂住我的脖子，我也默契地蹲下。
- :感受着这一份安心的重量。感受着这一份信赖的倚靠。
-miniAvatar:CGM_AK15au.png;
-【茜】:「这是你的目的？」
+ :朱音绕到我身后，我也顺势蹲下。
+ :双臂的肌肤搂过我的脖子，感受到了一丝微寒。
+ :温暖的气息时不时地吹在我的耳根。
+ :我抬起丰腴的双腿，再用背部承受着朱音所有的重量。
 miniAvatar:kotarou_1.png;
-【瑚太朗】:「谁知道呢。」
-miniAvatar:none;
- :开始一步一步向前进发。
+【瑚太朗】:「……」
 miniAvatar:CGM_AK15au.png;
-【茜】:「是不是有点太拐弯抹角了？」
+【茜】:「我不想听到任何关于体重的段子，下一个。」
 miniAvatar:kotarou_1.png;
-【瑚太朗】:「至少比你直白喔。」
-miniAvatar:none;
- :朱音的脸趴在我的背上，没有回答。
+【瑚太朗】:「没有啦，很合适啦。」
 miniAvatar:CGM_AK15au.png;
-【茜】:「暂时就写到这了，困了，要睡觉了。」
+【茜】:「……那就好。」
+miniAvatar:none;
+ :朱音换了个姿势，趴在我的背后，柔软的脸蛋蹭着我的背部。
+ :与前几个弯道不同，拐了一个角度格外巨大的弯之后，终于能看到山顶瞭望台的影子了。
+ :看向山下，刚才九转十八弯的小路历历在目。
+miniAvatar:kotarou_1.png;
+【瑚太朗】:「你看啦，也没有那么高啦。」
+miniAvatar:CGM_AK11au.png;
+【茜】:「随便，怎样都好。」
+miniAvatar:none;
+ :似乎完全不感兴趣的样子。
+ :于是继续最后的一小段路。
+ :……
+ :…………
+ :眼前渐渐出现一块没有树林的空旷区域，随着越来越近，那块区域越来越大。
+ :一座凉亭伫立在这个视野最好的山脊上，伴着黄昏的阳光，慵懒地坐在那里。
+miniAvatar:kotarou_1.png;
+【瑚太朗】:「喂，别睡着啦。」
+miniAvatar:CGM_AK11au.png;
+【茜】:「才几点。」
+miniAvatar:none;
+ :走过凉亭，又往前走了几步，视野更加开阔。护栏下是高度差巨大的树林，护栏外则把这一片区域尽收眼底。
+ :河道上正反射着橘色的黄昏阳光，显得波光粼粼，一闪一闪亮晶晶。附近则是几只水鸟在上面栖息。
+ :远处的山又高又远，云雾缭绕，难以一睹芳容。
+ :近处的几栋建筑，闪着微微火光。显得格外渺小。
+ :朱音从我背后探出头来，瞅了瞅。日光照在她的脸上，一明一暗。
+miniAvatar:kotarou_1.png;
+【瑚太朗】:「偶尔出来一趟不错吧，空气也很清新。」
+miniAvatar:CGM_AK11au.png;
+【茜】:「……」
+miniAvatar:none;
+ :朱音没有回我，只是稍微看了几眼，便又把头缩了回去。
+miniAvatar:CGM_AK11au.png;
+【茜】:「……嗯…休息一下吧？背着也累了吧？」
+miniAvatar:none;
+ :朱音趴在我的背后，小声说着。
+ :我把她放在凉亭的椅子上。朱音倚在亭角上，头靠着柱子。我坐在旁边，一起面向群山。
+miniAvatar:kotarou_1.png;
+【瑚太朗】:「山上稍微有点冷呢，我记得海拔每提高100米会降低6摄氏度……」
+miniAvatar:CGM_AK23au.png;
+【茜】:「100米是0.6度，要是降低6度那可真不得了了，用不了多久就要都冻死了。」
+miniAvatar:kotarou_1.png;
+【瑚太朗】:「不过0.6度也感觉蛮冷的……」
+miniAvatar:CGM_AK15au.png;
+【茜】:「嗯……大概还有别的因素吧。」
+miniAvatar:none;
+ :朱音把两手插了起来。这个季节虽然还好，但昨天刚下过雨，这一套出门还是稍微有点单薄，过一会儿太阳下山的话应该会更冷吧。
+ :山间的鸟叫虫鸣偶尔响彻凉亭。
+miniAvatar:CGM_AK15au.png;
+【茜】:「什么时候回去，要天黑了喔，这里可没有电灯喔？」
+miniAvatar:none;
+ :朱音带着点不安问我，像极了小时候想要早点回家的孩子。
+miniAvatar:kotarou_1.png;
+【瑚太朗】:「别担心，毕竟离家很近。」
+miniAvatar:none;
+ :我握住了她放在椅子上的手，但被她抽开了。
+ :转过来她又握住了我的手。于是我也抽开了，再试图去握住她的手。
+ :……
+ :…………
+changeBg:20240705072612_1.jpg -next;
+ :就这么嬉皮打闹了一会儿，夜幕降临了。
+miniAvatar:CGM_AK17au.png;
+【茜】:「比预想的要黑喔，喂。」
+miniAvatar:none;
+ :太阳落下，接班的月亮显得格外羸弱。
+ :漆黑覆盖了大片视野，从护栏望去，唯独只有近处的家里还燃着火光。
+ :漆黑世界中唯一的火光。
+miniAvatar:kotarou_1.png;
+【瑚太朗】:「怎么样，是不是很有感觉。」
+miniAvatar:CGM_AK17au.png;
+【茜】:「有个屁，这么黑，快点下山啦。」
+miniAvatar:none;
+ :雪上加霜，淅沥沥的雨滴开始打在地面，发出啪嗒啪嗒的声响。
+ :我赶紧从背包里拿出雨伞和手电筒。
+miniAvatar:CGM_AK15au.png;
+【茜】:「要不在这里掐死我算了，让我复活在家里就好。」
+miniAvatar:kotarou_1.png;
+【瑚太朗】:「会损失经验值的还是算了……而且我下不去手。」
+miniAvatar:none;
+ :朱音一脸怀疑加上欲言又止的样子。是不是之前做的太过头了。
+ :我蹲下，等她爬到我的背上。
+miniAvatar:CGM_AK15au.png;
+【茜】:「别了。雨天路滑，还要打手电和雨伞，好危险的，我自己可以走的。」
+miniAvatar:none;
+ :朱音拿起了手电和雨伞，示意赶紧出发。
+miniAvatar:kotarou_1.png;
+【瑚太朗】:「嗯。」
+miniAvatar:none;
+bgm:Exploration.mp3 -enter=1000; 
+ :……
+ :…………
+miniAvatar:CGM_AK17au.png;
+【茜】:「BGM都变得恐怖了！我再确认一遍，我们这里是以性交为目的的黄色同人小说吧？」
+miniAvatar:kotarou_1.png;
+【瑚太朗】:「虽然确实是那样的……」
+miniAvatar:none;
+ :我握紧她的手，从山顶回程。
+ :漆黑太过于恐怖，月光在乌云里更加脆弱。刚才的山峦、凉亭、护栏，甚至周围的树木，都早已看不见了。
+ :只有靠着手电筒，才勉强分辨出脚下的道路。
+ :我想，这也是为什么古人如此害怕夜晚的原因吧。
+ :雨让岩石更加湿滑，让沙土更加泥泞，雨陆陆续续打落在雨伞上，响起令人不快的声音。
+miniAvatar:CGM_AK17au.png;
+【茜】:「聊点什么吧？！」
+ :朱音略显慌张地说着。
+miniAvatar:kotarou_1.png;
+【瑚太朗】:「呃……呃……还真是天有不测风云啊！」
+miniAvatar:none;
+ :我故意大声说着，用声音驱散一点不安。
+miniAvatar:CGM_AK21au.png;
+【茜】:「你这家伙，看我到家怎么收拾你！」
+miniAvatar:none;
+ :朱音的语调也比平常多了两分，看来也是相当害怕。
+ :虽然手电筒的光线在恐怖游戏里显得非常可怕，但要是没有了这道光束，那就更可怕了。
+ :风吹草动，此时显得格外骇人。
+miniAvatar:kotarou_1.png;
+【瑚太朗】:「说点什么啊？」
+miniAvatar:none;
+ :大抵是被风声鹤唳吓到了，我也问出了愚蠢的问题。
+miniAvatar:CGM_AK21au.png;
+【茜】:「呃……晚上吃什么？」
+miniAvatar:kotarou_1.png;
+【瑚太朗】:「拉面吧。」
+miniAvatar:none;
+ :感觉要是话题转到如此恐怖的环境的话，就会让人更加害怕，于是尽可能聊一些无关紧要的话题。
+ :就当这么插科打诨的时候，我看见前面几米有一团白雾。
+miniAvatar:kotarou_1.png;
+【瑚太朗】:「喂……那是什么……」
+miniAvatar:none;
+ :太过于诡异以至于让我讲不出来段子。
+ :这一团白雾像是一团云被摘到了路上，如果不是在这么漆黑的环境下的话，可能更有情调。
+miniAvatar:CGM_AK21au.png;
+【茜】:「*粗口*！这是自然现象吧？自然现象吧？应该是自然现象吧。」
+miniAvatar:none;
+ :虽然两个人非常害怕，但还是没有停止匆忙的脚步，继续赶路。
+ :就这样直接穿过了白雾。
+ :十指相扣的手被雨水和汗水浸湿。
+ :什么也没有发生。
+miniAvatar:kotarou_1.png;
+【瑚太朗】:「看来是自然现象呢，是自然现象呢……大自然还真是奇妙呢哈哈哈。」
+miniAvatar:CGM_AK21au.png;
+【茜】:「*粗口*，快走，别傻笑了。」
+miniAvatar:kotarou_1.png;
+【瑚太朗】:「在走呢，在走呢。」
+miniAvatar:none;
+ :继续重复着无意义的对话。
+ :来时路上的石头、砖瓦、林叶，在黑暗中诡异地摇摆。
+ :劣质的运动鞋被雨水溅湿。
+miniAvatar:kotarou_1.png;
+【瑚太朗】:「*粗口*，在这里死了的话会是什么play啊？」
+miniAvatar:none;
+ :抛出了一个非常合适的话题。（错乱）
+miniAvatar:CGM_AK15au.png;
+【茜】:「……我现在突然很想把手电筒朝着自己的脸吓你。」
+miniAvatar:kotarou_1.png;
+【瑚太朗】:「这种情况真的很恐怖请不要那么做啊！」
+miniAvatar:CGM_AK15au.png;
+【茜】:「我也知道所以没那么做啊！」
+miniAvatar:CGM_AK14au.png;
+【茜】:「你不要把手电筒照到路之外的地方！万一照到什么东西就不得了了！」
+miniAvatar:kotarou_1.png;
+【瑚太朗】:「你也不要回头看啊！这种情况因为回头而出事的概率也很大啊！」
+miniAvatar:none;
+ :就这么互相大声说着话，终于踩到了熟悉的结实地面。
+ :……
+ :…………
+bgm:アンスリウム.mp3 -enter=1000; 
+changeBg:20240711001601_1.jpg -next;
+miniAvatar:CGM_AK15au.png;
+【茜】:「你欠我一次。」
+miniAvatar:none;
+ :从浴室洗完澡的朱音悻悻地跟我说。
+miniAvatar:kotarou_1.png;
+【瑚太朗】:「好好……」
+miniAvatar:none;
+ :我拿起换洗衣服也进了澡堂。
+miniAvatar:CGM_AK15au.png;
+【茜】:「这个意义不明的剧情到底是要搞什么啊……」
+miniAvatar:none;
+ :完。
 end;
