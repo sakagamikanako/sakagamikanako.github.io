@@ -3,7 +3,7 @@ changeBg:20240713050333_1.jpg -next;
 intro:（……） -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
 changeFigure:CGM_KG31.png -next;
 miniAvatar:none;
-【篝】:「ver1.1 最后修订日期：2024.11.9」 -fontSize=default;
+【篝】:「ver1.2 最后修订日期：2024.11.10」 -fontSize=default;
 【篝】:「全年龄向。」 -fontSize=default;
 【篝】:「为什么小数点反而成全年龄向了。按理说整数编号才是正篇吧。」 -fontSize=default;
 【篝】:「其实自己也很想吐槽。」 -fontSize=default;
@@ -312,7 +312,7 @@ miniAvatar:none;
 miniAvatar:CGM_AK21au.png;
 【茜】:「呃……晚上吃什么？」
 miniAvatar:kotarou_1.png;
-【瑚太朗】:「拉面吧。」
+【瑚太朗】:「拉……拉面吧。」
 miniAvatar:none;
  :感觉要是话题转到如此恐怖的环境的话，就会让人更加害怕，于是尽可能聊一些无关紧要的话题。
  :就当这么插科打诨的时候，我看见前面几米有一团白雾。
@@ -320,13 +320,18 @@ miniAvatar:kotarou_1.png;
 【瑚太朗】:「喂……那是什么……」
 miniAvatar:none;
  :太过于诡异以至于让我讲不出来段子。
- :这一团白雾像是一团云被摘到了路上，如果不是在这么漆黑的环境下的话，可能更有情调。
+ :像是一团云朵在路上，如果不是在这么漆黑的环境下的话，可能更有情调。
+ :现在只会让人觉得恐怖。
 miniAvatar:CGM_AK21au.png;
 【茜】:「*粗口*！这是自然现象吧？自然现象吧？应该是自然现象吧。」
 miniAvatar:none;
  :虽然两个人非常害怕，但还是没有停止匆忙的脚步，继续赶路。
- :就这样直接穿过了白雾。
+ :如死寂般的山里只剩下鞋子在泥土上刮擦的声音。
  :十指相扣的手被雨水和汗水浸湿。
+ :能从指间感受到另一个人的脉搏。
+ :……
+ :…………
+ :就这样直接穿过了白雾。
  :什么也没有发生。
 miniAvatar:kotarou_1.png;
 【瑚太朗】:「看来是自然现象呢，是自然现象呢……大自然还真是奇妙呢哈哈哈。」
@@ -367,7 +372,7 @@ miniAvatar:kotarou_1.png;
 miniAvatar:none;
  :我拿起换洗衣服也进了澡堂。
 miniAvatar:CGM_AK15au.png;
-【茜】:「这个意义不明的剧情到底是要搞什么啊……」
+【茜】:「这个完全意义不明的剧情到底是要搞什么啊……」
 miniAvatar:none;
  :完。
 end;
