@@ -3,6 +3,7 @@ changeBg:20240713050333_1.jpg -next;
 intro:（……） -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
 changeFigure:CGM_KG31.png -next;
 miniAvatar:none;
+【篝】:「ver1.1 最后修订日期：2024.11.10」 -fontSize=default;
 【篝】:「R18。TAG还是老样子。紧缚强制什么的。」 -fontSize=default;
 【篝】:「没有配音。」 -fontSize=default;
 【篝】:「顺便一提，是朱音视角。」 -fontSize=default;
@@ -12,13 +13,13 @@ changeBg:20240711190617_1.jpg -next;
 changeFigure: -next;
 miniAvatar:CGM_AK14au.png;
 【茜】:「瑚太朗——！！」
-【茜】:「用完手柄插回去充电啊！！！」
+【茜】:「用完手柄插回去充电啊！我玩一半没电了！！！」
 miniAvatar:none;
  :这个笨蛋，昨天晚上又熬夜玩游戏了。今早起来一看手柄就摆在桌子上。
 miniAvatar:CGM_AK14au.png;
 【茜】:「瑚太朗———醒着没有啊——」
 miniAvatar:none;
- :没有回应。用脚在地板上探到了拖鞋，决定下楼找一下他。
+ :没有回应。用脚在地板上探了探拖鞋，决定下楼找一下他。
 miniAvatar:CGM_AK15au.png;
 【茜】:「人呢？怎么没回话？鬼鬼祟祟地在干嘛呢？」
 changeBg:BG046_compressed.png -next;
@@ -27,7 +28,7 @@ miniAvatar:none;
 miniAvatar:kotarou_1.;
 【瑚太朗】:「……欸」
 miniAvatar:none;
- :很明显地在藏着什么东西。
+ :很明显地在藏着什么东西的表情。
 miniAvatar:CGM_AK23au.png;
 【茜】:「故意把手背过去简直就是在告诉别人自己藏着不可告人的东西。」
 miniAvatar:kotarou_1.png;
@@ -37,15 +38,15 @@ miniAvatar:CGM_AK14au.png;
 miniAvatar:none;
  :赶紧三步并作两步，踩着楼梯下楼。
 miniAvatar:CGM_AK15au.png;
-【茜】:「……啊……」
+【茜】:「……欸……」
 miniAvatar:none;
- :左脚不习惯的大步伐直接踩空了台阶，可爱的拖鞋脱离脚掌的束缚飞了出去。
+ :左脚的大步伐直接踩空了台阶，可爱的拖鞋滑了出去。
  :时间变慢了。
- :两手悬空，左脚完全失去支点，右脚虽然还在楼梯上，但随着身体跌落只是时间问题……
+ :双手也没有抓着护栏，完全失去重心……
 miniAvatar:kotarou_1.png;
-【瑚太朗】:「……啊……」
+【瑚太朗】:「……？……」
 miniAvatar:none;
- :看见瑚太朗一帧一帧地回过头来，没说什么，但正呆呆地望着楼梯上的情况。
+ :看见瑚太朗一帧一帧地回过头来，正呆呆地望着楼梯上的情况。
  :虽然看见他抛下了可疑物品，但似乎来不及了……
  :笨蛋（两个人都是），很危险的情况啊，现在已经开始临死前慢镜头回放了！快用超能力做点什么啊！
 miniAvatar:CGM_AK15au.png;
@@ -53,26 +54,24 @@ miniAvatar:CGM_AK15au.png;
 miniAvatar:none;
  :不知道是时间太慢了，还是自己太紧张了，喉咙根本没有发出声音。
 miniAvatar:CGM_AK15au.png;
- :左脚已经彻底失去平衡了，而右脚在身体重心前倾的情况下，不可能再踩到楼梯上了。
- :这样的话只能像漫画那样，在楼梯上咕噜咕噜地滚下去了。
+ :最糟糕的情况只能像漫画那样，在楼梯上咕噜咕噜地滚下去了。
 miniAvatar:CGM_AK23au.png;
  :虽然很不是时候，但毕竟走马灯了，还是要讲解一下，楼梯方方正正的边缘会对身体造成不小的冲击伤害。
  :如果现实中不幸遇到滚下阶梯的这种情况，记得优先保护头部喔。（笑）
 miniAvatar:kotarou_1.png;
-【瑚太朗】:「……」
+【瑚太朗】:「……？」
 miniAvatar:none;
  :既然这样的话……嗯……闭上眼睛。
 changeBg:black.jpg -next;
- :右脚用最后的力量蹬地！
- :直接越过楼梯，腾空跃向一楼地面，双手扑向前方。
+ :右脚用最后的力量跳起来！
+ :直接腾空跳向一楼地面，双手扑向前方。
 changeBg:BG046_compressed.png -next;
- :悄悄睁开眼睛看一下……
- :看见他正默契地张开双臂准备接住我。——安心了。
+ :悄悄睁开眼睛看一下……看见他正默契地张开双臂准备接住我。
  :时间恢复正常了。
  :就这样扑入他的怀中——
 playEffect:Blow1.m4a;
 changeBg:black.jpg -next;
- :……！撞到头了，好疼！
+ :……！虽然身体比地板柔软多了但还是好疼！
  :…………
  :………………刚才应该有张CG的。
 changeBg:BG046_compressed.png -next;
@@ -83,7 +82,7 @@ bgm:ShaLaLaEcstasy.mp3 -enter=1000;
 miniAvatar:CGM_AK15au.png;
  :是自己已经灵魂出窍了吗……
 miniAvatar:CGM_AK19au.png;
- :果然自己还是死了吗。嘛，瑚太朗，对不住了。
+ :自己还是死了吗。嘛，瑚太朗，对不住了。
  :好傻喔。感觉到了莫名的悲伤。用手摸了摸自己的脸……
 miniAvatar:CGM_AK17au.png
  :手？
