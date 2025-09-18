@@ -429,7 +429,7 @@ miniAvatar:CGM_AK17au.png;
 【茜】:「欸？开玩笑的吧，我明明……」
 miniAvatar:none;
 changeFigure:CGM_KT19ah.png -next;
-【茜】:「会长的身体还真是淫荡呢。（偷笑）」
+【鸟】:「会长的身体还真是淫荡呢。（偷笑）」
 changeFigure:CGM_KT11ah.png -next;
 【鸟】:「说实话两个人都相当厉害呢！真应该互相见识一下那个壮观的场面！」
 changeFigure:CGM_KT20ah.png -next;

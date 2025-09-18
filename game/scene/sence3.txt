@@ -43,7 +43,7 @@ miniAvatar:CGM_AK30a.png;
 miniAvatar:CGM_AK33a.png;
 【茜】:「在床底下除了绳子还找到了口球呢。是你昨天打算对我使用的吧。」
 miniAvatar:none;
-【瑚太朗】:「不不不那个只是准备用来举办第一次风祭杯拔河比赛以及奖品……唔唔唔！」
+【瑚太朗】:「不不不那个只是准备用来举办第一次风祭杯拔河比赛的奖品……唔唔唔！」
 miniAvatar:CGM_AK20au.png;
 【茜】:「那我提前先给你颁个奖喔。」
 miniAvatar:none;
